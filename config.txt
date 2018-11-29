@@ -1,6 +1,6 @@
-token=NDk5NzQxNzUzODU5ODk5Mzk1.DuGf0w.bumhNZugxuQcKD9bxn5jAf75Yyk
+token=NDU5MTgxMjcwNDcyMDY1MDM0.DuGgRQ.0aoVsZJpwEUxtH2JuI3mbMEs3So
 owner=260937918653136906
-prefix=4
+prefix=5
 game=Future, Community. 💕
 stayinchannel=true
 songinstatus=true
