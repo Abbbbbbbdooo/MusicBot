@@ -1,4 +1,4 @@
-token=NTA4NzQ0MjY5NTYxODU2MDAx.DuGiOw.umVre_z46ZRKI2ySkG0RZfDGfk4
+token=TOKEN
 owner=260937918653136906
 prefix=9
 game=Future, Community. 💕
