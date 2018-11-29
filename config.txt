@@ -1,6 +1,6 @@
 token=NDk4ODk2NDk4MjczMjg4MTkz.DuGccA.tOHNu_nKItnbMGKma4FZgRaOdug
 owner=260937918653136906
 prefix=1
-game=~ Future, Community. 💕
+game=Future, Community. 💕
 stayinchannel=true
 songinstatus=true
