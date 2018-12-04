@@ -1,4 +1,4 @@
-token=Token
+token=token
 owner=394408399812427776
 prefix=A
 game=Private.Music 💕
